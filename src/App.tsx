@@ -69,6 +69,7 @@ export function useYalState(): YalState {
         if (message) {
             setTimeout(() => {
                 setMessage(null);
+                updateAmount();
             }, 3000);
         }
     }, [message]);
