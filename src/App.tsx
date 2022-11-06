@@ -47,7 +47,9 @@ export function useYalState(): YalState {
 
     const mint = () => {
         setIsMinting(true);
-        takePez(program, connection, YAL_PEZ_ID, publicKey)
+        takePez(program, connection, YAL_PEZ_ID, publicKey, {
+            commitment: "max",
+        })
             .then(() => {
                 updateAmount();
                 setMessage(MINT_SUCCESS_MESSAGE);
