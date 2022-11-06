@@ -4,6 +4,8 @@ This is the xNFT version of my perma-dApp YAL ( You are Loved ) Quickly put toge
 
 The full dApp site, stored forever and always with SHDW Drive is [here](https://shdw-drive.genesysgo.net/6P6WznKbJ2nEMCfrXZDQvipCgCSx45SXxjWMWvqfPtyJ/yal_website.html)
 
+Just like the perma dApp this will always be open source! Feel free to reach out and ask any questions you may have [@CoachChuckFF](https://twitter.com/CoachChuckFF)
+
 ## References 
 - [xNFT Page](https://xnft.gg/)
 - [xNFT Docs](https://docs.xnft.gg/)
