@@ -1,6 +1,13 @@
-# xnft-quickstart
+# YAL xNFT
 
-Quickstart repo for building your own xNFT.
+This is the xNFT version of my perma-dApp YAL ( You are Loved ) Quickly put together directly after the Backpack xNFT presentation at Breakpoint '22. ( Literally, I ran back to the hostel after the presentation! )
+
+The full dApp site, stored forever and always with SHDW Drive is [here](https://shdw-drive.genesysgo.net/6P6WznKbJ2nEMCfrXZDQvipCgCSx45SXxjWMWvqfPtyJ/yal_website.html)
+
+## References 
+- [xNFT Page](https://xnft.gg/)
+- [xNFT Docs](https://docs.xnft.gg/)
+- [Breakpoint Presentation](https://www.youtube.com/watch?v=GuxoSjIC9Lk&feature=youtu.be)
 
 ## Developing
 
@@ -27,5 +34,3 @@ yarn dev
 Now that you have your xNFT dev server running, open it in the Backpack simulator to see it run.
 
 That's it!
-# YAL-xNFT
-# YAL-xNFT

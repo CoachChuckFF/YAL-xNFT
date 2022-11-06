@@ -1,0 +1,24 @@
+{
+    "name": "yal-xnft",
+    "version": "1.0.0",
+    "description": "You are loved. Always.",
+    "main": "index.js",
+    "scripts": {
+        "build": "xnft build",
+        "start": "xnft watch",
+        "dev": "xnft dev"
+    },
+    "author": "Coach Chuck",
+    "license": "ISC",
+    "devDependencies": {},
+    "dependencies": {
+        "@coral-xyz/xnft-cli": "^0.2.0-latest.418",
+        "@project-serum/anchor": "^0.25.0",
+        "@project-serum/serum": "^0.13.64",
+        "@solana/spl-token": "^0.3.6",
+        "@solana/web3.js": "^1.36.0",
+        "assert": "^2.0.0",
+        "react": "^17.0.2",
+        "react-xnft": "^0.2.0-latest.418"
+    }
+}
