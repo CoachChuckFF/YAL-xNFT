@@ -6,6 +6,8 @@ The full dApp site, stored forever and always with SHDW Drive is [here](https://
 
 Just like the perma dApp this will always be open source! Feel free to reach out and ask any questions you may have [@CoachChuckFF](https://twitter.com/CoachChuckFF)
 
+WAO 🔵 🎒
+
 ## References 
 - [xNFT Page](https://xnft.gg/)
 - [xNFT Docs](https://docs.xnft.gg/)
